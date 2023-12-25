@@ -1,0 +1,59 @@
+I:\Development project\Development record\Software development\Brightness\Brightness_control_8CH\Brightness_control_8CH\BrightnessLibrary\obj\Debug\BrightnessLibrary.csproj.AssemblyReference.cache
+I:\Development project\Development record\Software development\Brightness\Brightness_control_8CH\Brightness_control_8CH\BrightnessLibrary\obj\Debug\BrightnessLibrary.csproj.CoreCompileInputs.cache
+I:\Development project\Development record\Software development\Brightness\Brightness_control_8CH\Brightness_control_8CH\BrightnessLibrary\bin\Debug\BrightnessLibrary.dll
+I:\Development project\Development record\Software development\Brightness\Brightness_control_8CH\Brightness_control_8CH\BrightnessLibrary\bin\Debug\BrightnessLibrary.pdb
+I:\Development project\Development record\Software development\Brightness\Brightness_control_8CH\Brightness_control_8CH\BrightnessLibrary\obj\Debug\BrightnessLibrary.dll
+I:\Development project\Development record\Software development\Brightness\Brightness_control_8CH\Brightness_control_8CH\BrightnessLibrary\obj\Debug\BrightnessLibrary.pdb
+I:\Development project\Development record\Software development\Brightness\Brightness_control_8CH _ 20230515\Brightness_control_8CH\BrightnessLibrary\bin\Debug\BrightnessLibrary.dll
+I:\Development project\Development record\Software development\Brightness\Brightness_control_8CH _ 20230515\Brightness_control_8CH\BrightnessLibrary\bin\Debug\BrightnessLibrary.pdb
+I:\Development project\Development record\Software development\Brightness\Brightness_control_8CH _ 20230515\Brightness_control_8CH\BrightnessLibrary\obj\Debug\BrightnessLibrary.csproj.AssemblyReference.cache
+I:\Development project\Development record\Software development\Brightness\Brightness_control_8CH _ 20230515\Brightness_control_8CH\BrightnessLibrary\obj\Debug\BrightnessLibrary.csproj.CoreCompileInputs.cache
+I:\Development project\Development record\Software development\Brightness\Brightness_control_8CH _ 20230515\Brightness_control_8CH\BrightnessLibrary\obj\Debug\BrightnessLibrary.dll
+I:\Development project\Development record\Software development\Brightness\Brightness_control_8CH _ 20230515\Brightness_control_8CH\BrightnessLibrary\obj\Debug\BrightnessLibrary.pdb
+I:\Development project\Development record\Software development\Brightness\Brightness_control_8CH _ 20230522\Brightness_control_8CH\BrightnessLibrary\bin\Debug\BrightnessLibrary.dll
+I:\Development project\Development record\Software development\Brightness\Brightness_control_8CH _ 20230522\Brightness_control_8CH\BrightnessLibrary\bin\Debug\BrightnessLibrary.pdb
+I:\Development project\Development record\Software development\Brightness\Brightness_control_8CH _ 20230522\Brightness_control_8CH\BrightnessLibrary\obj\Debug\BrightnessLibrary.csproj.AssemblyReference.cache
+I:\Development project\Development record\Software development\Brightness\Brightness_control_8CH _ 20230522\Brightness_control_8CH\BrightnessLibrary\obj\Debug\BrightnessLibrary.csproj.CoreCompileInputs.cache
+I:\Development project\Development record\Software development\Brightness\Brightness_control_8CH _ 20230522\Brightness_control_8CH\BrightnessLibrary\obj\Debug\BrightnessLibrary.dll
+I:\Development project\Development record\Software development\Brightness\Brightness_control_8CH _ 20230522\Brightness_control_8CH\BrightnessLibrary\obj\Debug\BrightnessLibrary.pdb
+I:\Development project\Development record\Software development\Brightness\Brightness_control_8CH _ 20230607\Brightness_control_8CH\BrightnessLibrary\bin\Debug\BrightnessLibrary.dll
+I:\Development project\Development record\Software development\Brightness\Brightness_control_8CH _ 20230607\Brightness_control_8CH\BrightnessLibrary\bin\Debug\BrightnessLibrary.pdb
+I:\Development project\Development record\Software development\Brightness\Brightness_control_8CH _ 20230607\Brightness_control_8CH\BrightnessLibrary\obj\Debug\BrightnessLibrary.csproj.AssemblyReference.cache
+I:\Development project\Development record\Software development\Brightness\Brightness_control_8CH _ 20230607\Brightness_control_8CH\BrightnessLibrary\obj\Debug\BrightnessLibrary.csproj.CoreCompileInputs.cache
+I:\Development project\Development record\Software development\Brightness\Brightness_control_8CH _ 20230607\Brightness_control_8CH\BrightnessLibrary\obj\Debug\BrightnessLibrary.dll
+I:\Development project\Development record\Software development\Brightness\Brightness_control_8CH _ 20230607\Brightness_control_8CH\BrightnessLibrary\obj\Debug\BrightnessLibrary.pdb
+I:\Development project\Development record\Software development\Brightness\Brightness_control_8CH _ 20230613\Brightness_control_8CH\BrightnessLibrary\bin\Debug\BrightnessLibrary.dll
+I:\Development project\Development record\Software development\Brightness\Brightness_control_8CH _ 20230613\Brightness_control_8CH\BrightnessLibrary\bin\Debug\BrightnessLibrary.pdb
+I:\Development project\Development record\Software development\Brightness\Brightness_control_8CH _ 20230613\Brightness_control_8CH\BrightnessLibrary\obj\Debug\BrightnessLibrary.csproj.AssemblyReference.cache
+I:\Development project\Development record\Software development\Brightness\Brightness_control_8CH _ 20230613\Brightness_control_8CH\BrightnessLibrary\obj\Debug\BrightnessLibrary.csproj.CoreCompileInputs.cache
+I:\Development project\Development record\Software development\Brightness\Brightness_control_8CH _ 20230613\Brightness_control_8CH\BrightnessLibrary\obj\Debug\BrightnessLibrary.dll
+I:\Development project\Development record\Software development\Brightness\Brightness_control_8CH _ 20230613\Brightness_control_8CH\BrightnessLibrary\obj\Debug\BrightnessLibrary.pdb
+I:\Development project\Development record\Software development\Brightness測試軟體\Brightness_control_8CH _ 20230721\Brightness_control_8CH\BrightnessLibrary\bin\Debug\BrightnessLibrary.dll
+I:\Development project\Development record\Software development\Brightness測試軟體\Brightness_control_8CH _ 20230721\Brightness_control_8CH\BrightnessLibrary\bin\Debug\BrightnessLibrary.pdb
+I:\Development project\Development record\Software development\Brightness測試軟體\Brightness_control_8CH _ 20230721\Brightness_control_8CH\BrightnessLibrary\obj\Debug\BrightnessLibrary.csproj.AssemblyReference.cache
+I:\Development project\Development record\Software development\Brightness測試軟體\Brightness_control_8CH _ 20230721\Brightness_control_8CH\BrightnessLibrary\obj\Debug\BrightnessLibrary.csproj.CoreCompileInputs.cache
+I:\Development project\Development record\Software development\Brightness測試軟體\Brightness_control_8CH _ 20230721\Brightness_control_8CH\BrightnessLibrary\obj\Debug\BrightnessLibrary.dll
+I:\Development project\Development record\Software development\Brightness測試軟體\Brightness_control_8CH _ 20230721\Brightness_control_8CH\BrightnessLibrary\obj\Debug\BrightnessLibrary.pdb
+I:\Development project\Development record\Software development\Brightness測試軟體\Brightness_control_8CH _ 20230808\Brightness_control_8CH\BrightnessLibrary\bin\Debug\BrightnessLibrary.dll
+I:\Development project\Development record\Software development\Brightness測試軟體\Brightness_control_8CH _ 20230808\Brightness_control_8CH\BrightnessLibrary\bin\Debug\BrightnessLibrary.pdb
+I:\Development project\Development record\Software development\Brightness測試軟體\Brightness_control_8CH _ 20230808\Brightness_control_8CH\BrightnessLibrary\obj\Debug\BrightnessLibrary.csproj.AssemblyReference.cache
+I:\Development project\Development record\Software development\Brightness測試軟體\Brightness_control_8CH _ 20230808\Brightness_control_8CH\BrightnessLibrary\obj\Debug\BrightnessLibrary.csproj.CoreCompileInputs.cache
+I:\Development project\Development record\Software development\Brightness測試軟體\Brightness_control_8CH _ 20230808\Brightness_control_8CH\BrightnessLibrary\obj\Debug\BrightnessLibrary.dll
+I:\Development project\Development record\Software development\Brightness測試軟體\Brightness_control_8CH _ 20230808\Brightness_control_8CH\BrightnessLibrary\obj\Debug\BrightnessLibrary.pdb
+I:\Development project\Development record\Software development\Brightness測試軟體\Brightness_control_8CH _ 20230814\Brightness_control_8CH\BrightnessLibrary\bin\Debug\BrightnessLibrary.dll
+I:\Development project\Development record\Software development\Brightness測試軟體\Brightness_control_8CH _ 20230814\Brightness_control_8CH\BrightnessLibrary\bin\Debug\BrightnessLibrary.pdb
+I:\Development project\Development record\Software development\Brightness測試軟體\Brightness_control_8CH _ 20230814\Brightness_control_8CH\BrightnessLibrary\obj\Debug\BrightnessLibrary.csproj.AssemblyReference.cache
+I:\Development project\Development record\Software development\Brightness測試軟體\Brightness_control_8CH _ 20230814\Brightness_control_8CH\BrightnessLibrary\obj\Debug\BrightnessLibrary.csproj.CoreCompileInputs.cache
+I:\Development project\Development record\Software development\Brightness測試軟體\Brightness_control_8CH _ 20230814\Brightness_control_8CH\BrightnessLibrary\obj\Debug\BrightnessLibrary.dll
+I:\Development project\Development record\Software development\Brightness測試軟體\Brightness_control_8CH _ 20230814\Brightness_control_8CH\BrightnessLibrary\obj\Debug\BrightnessLibrary.pdb
+I:\Development project\Development record\Software development\Brightness測試軟體\Brightness_control_8CH _ 20230814 _1135\Brightness_control_8CH\BrightnessLibrary\bin\Debug\BrightnessLibrary.dll
+I:\Development project\Development record\Software development\Brightness測試軟體\Brightness_control_8CH _ 20230814 _1135\Brightness_control_8CH\BrightnessLibrary\bin\Debug\BrightnessLibrary.pdb
+I:\Development project\Development record\Software development\Brightness測試軟體\Brightness_control_8CH _ 20230814 _1135\Brightness_control_8CH\BrightnessLibrary\obj\Debug\BrightnessLibrary.csproj.CoreCompileInputs.cache
+I:\Development project\Development record\Software development\Brightness測試軟體\Brightness_control_8CH _ 20230814 _1135\Brightness_control_8CH\BrightnessLibrary\obj\Debug\BrightnessLibrary.dll
+I:\Development project\Development record\Software development\Brightness測試軟體\Brightness_control_8CH _ 20230814 _1135\Brightness_control_8CH\BrightnessLibrary\obj\Debug\BrightnessLibrary.pdb
+I:\Development project\Development record\Software development\Brightness測試軟體\Brightness_control_8CH _ 20230815\Brightness_control_8CH\BrightnessLibrary\bin\Debug\BrightnessLibrary.dll
+I:\Development project\Development record\Software development\Brightness測試軟體\Brightness_control_8CH _ 20230815\Brightness_control_8CH\BrightnessLibrary\bin\Debug\BrightnessLibrary.pdb
+I:\Development project\Development record\Software development\Brightness測試軟體\Brightness_control_8CH _ 20230815\Brightness_control_8CH\BrightnessLibrary\obj\Debug\BrightnessLibrary.csproj.CoreCompileInputs.cache
+I:\Development project\Development record\Software development\Brightness測試軟體\Brightness_control_8CH _ 20230815\Brightness_control_8CH\BrightnessLibrary\obj\Debug\BrightnessLibrary.dll
+I:\Development project\Development record\Software development\Brightness測試軟體\Brightness_control_8CH _ 20230815\Brightness_control_8CH\BrightnessLibrary\obj\Debug\BrightnessLibrary.pdb
+I:\Development project\Development record\Software development\Brightness測試軟體\Brightness_control_8CH _ 20230815\Brightness_control_8CH\BrightnessLibrary\obj\Debug\BrightnessLibrary.csproj.AssemblyReference.cache
